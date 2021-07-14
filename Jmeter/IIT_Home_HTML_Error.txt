@@ -1,0 +1,61 @@
+line 14 column 9 - Warning: meta lacks "content" attribute
+line 20 column 9 - Warning: link lacks "type" attribute
+line 21 column 9 - Warning: link lacks "type" attribute
+line 22 column 9 - Warning: link lacks "type" attribute
+line 23 column 9 - Warning: link lacks "type" attribute
+line 24 column 9 - Warning: link lacks "type" attribute
+line 28 column 9 - Warning: link lacks "type" attribute
+line 30 column 9 - Warning: <link> lacks "type" attribute
+line 31 column 17 - Warning: link lacks "type" attribute
+line 32 column 9 - Warning: link lacks "type" attribute
+line 41 column 9 - Warning: link lacks "type" attribute
+line 42 column 9 - Warning: link lacks "type" attribute
+line 44 column 9 - Warning: link lacks "type" attribute
+line 47 column 9 - Warning: link lacks "type" attribute
+line 48 column 9 - Warning: link lacks "type" attribute
+line 50 column 9 - Warning: link lacks "type" attribute
+line 52 column 5 - Warning: link lacks "type" attribute
+line 65 column 1 - Error: <header> is not recognized!
+line 65 column 1 - Warning: discarding unexpected <header>
+line 70 column 1 - Warning: <marquee> is not approved by W3C
+line 104 column 33 - Warning: unknown attribute "data-target"
+line 104 column 33 - Warning: unknown attribute "data-toggle"
+line 105 column 60 - Warning: trimming empty <span>
+line 106 column 60 - Warning: trimming empty <span>
+line 107 column 60 - Warning: trimming empty <span>
+line 115 column 57 - Warning: unknown attribute "data-toggle"
+line 116 column 78 - Warning: trimming empty <b>
+line 125 column 74 - Warning: trimming empty <b>
+line 128 column 57 - Warning: unknown attribute "data-toggle"
+line 129 column 78 - Warning: trimming empty <b>
+line 140 column 74 - Warning: trimming empty <b>
+line 143 column 57 - Warning: unknown attribute "data-toggle"
+line 144 column 78 - Warning: trimming empty <b>
+line 153 column 74 - Warning: trimming empty <b>
+line 156 column 57 - Warning: unknown attribute "data-toggle"
+line 157 column 78 - Warning: trimming empty <b>
+line 160 column 125 - Warning: Warning: unescaped & which should be written as &amp;
+line 164 column 74 - Warning: trimming empty <b>
+line 170 column 80 - Warning: unknown attribute "data-toggle"
+line 171 column 128 - Warning: trimming empty <b>
+line 189 column 1 - Error: <section> is not recognized!
+line 189 column 1 - Warning: discarding unexpected <section>
+line 192 column 40 - Warning: trimming empty <div>
+line 221 column 117 - Warning: Warning: unescaped & which should be written as &amp;
+line 231 column -3 - Warning: discarding unexpected </section>
+line 232 column -3 - Warning: discarding unexpected </header>
+line 266 column 121 - Warning: missing <dd>
+line 298 column -3 - Warning: discarding unexpected </div>
+line 346 column 45 - Warning: unknown attribute "data-original-title"
+line 347 column 45 - Warning: unknown attribute "data-original-title"
+line 348 column 45 - Warning: unknown attribute "data-original-title"
+line 349 column 45 - Warning: unknown attribute "data-original-title"
+line 350 column 45 - Warning: unknown attribute "data-original-title"
+line 400 column 1 - Warning: <script> lacks "type" attribute
+line 442 column 1 - Warning: <script> lacks "type" attribute
+line 443 column 1 - Warning: <script> lacks "type" attribute
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML proprietary
+54 warnings, 2 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
